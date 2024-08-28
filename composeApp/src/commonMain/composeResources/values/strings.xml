@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <!--General-->
+    <string name="confirm_button">Confirmar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="yes_button">Sim</string>
+    <string name="no_button">Não</string>
+    <string name="delete_button">Apagar</string>
+
+    <!--Login-->
+    <string name="google_login_button">Entrar com Google</string>
+    <string name="apple_login_button">Entrar com Apple</string>
+
+    <!--Registration - Steps -->
+    <string name="registration_step_identification">Identificação</string>
+    <string name="registration_step_location">Origem</string>
+    <string name="registration_step_photo">Foto</string>
+
+    <!--Registration - Identification-->
+    <string name="registration_identification_name">Nome</string>
+    <string name="registration_identification_nickname">Apelido</string>
+    <string name="registration_identification_birthday">Data de nascimento</string>
+    <string name="registration_identification_favorite_team">Time do coração</string>
+
+    <!--Registration - Location-->
+    <string name="registration_location_city">Cidade</string>
+    <string name="registration_location_country">País</string>
+    <string name="registration_location_state">Estado</string>
+
+    <!--Registration - Photo-->
+    <string name="registration_photo_change">Alterar foto</string>
+    <string name="registration_photo_add">Adicionar foto</string>
+
+    <!--Bottom navigation tabs-->
+    <string name="players_tab">Jogadores</string>
+    <string name="list_tab">Lista</string>
+    <string name="profile_tab">Perfil</string>
+
+    <!--Hierarchies-->
+    <string name="hierarchy_president">Presidente</string>
+    <string name="hierarchy_board">Board</string>
+    <string name="hierarchy_monthly">Mensalista</string>
+    <string name="hierarchy_spot">Spot</string>
+    <string name="hierarchy_pending">Pendente</string>
+
+    <!--Game list-->
+    <string name="game_list_history_tab">Histórico</string>
+    <string name="game_list_max_players_info">%1$s jogadores</string>
+    <string name="game_list_in_button">IN</string>
+    <string name="game_list_out_button">OUT</string>
+    <string name="game_list_spot_button">SPOT</string>
+    <string name="game_list_confirm_out_alert">Tem certeza que deseja não participar da lista?</string>
+
+    <!--Profile-->
+    <string name="profile_menu_personal_info">Informações pessoais</string>
+    <string name="profile_menu_courts">Quadras</string>
+    <string name="profile_menu_configure_list">Configurar lista</string>
+    <string name="profile_menu_pending_players">Jogadores pendentes</string>
+    <string name="profile_logout_button">Logout</string>
+    <string name="profile_delete_account_button">Apagar conta</string>
+    <string name="profile_delete_account_alert">Tem certeza que deseja apagar sua conta? Este processo é irreversível.</string>
+
+    <!--Personal info-->
+    <string name="personal_info_name">Nome</string>
+    <string name="personal_info_nickname">Apelido</string>
+    <string name="personal_info_birthday">Data de nascimento</string>
+    <string name="personal_info_favorite_team">Time do coração</string>
+    <string name="personal_info_country">País</string>
+    <string name="personal_info_state">Estado</string>
+    <string name="personal_info_city">Cidade</string>
+    <string name="personal_info_button">Salvar alterações</string>
+
+    <!--Configure list-->
+    <string name="configure_list_date">Data</string>
+    <string name="configure_list_time">Horário</string>
+    <string name="configure_list_location">Local</string>
+    <string name="configure_list_max_players">Número de jogadores</string>
+    <string name="configure_list_create_list_button">Abrir lista</string>
+    <string name="configure_list_update_list_button">Atualizar lista</string>
+    <string name="configure_list_close_list_button">Encerrar lista</string>
+
+    <!--Pending players-->
+    <string name="pending_players_empty_state">Nenhum jogador pendente</string>
+    <string name="pending_players_approve_button">Aprovar</string>
+    <string name="pending_players_reject_button">Recusar</string>
+    <string name="pending_players_level_label">Nível</string>
+
+    <!--Player info-->
+    <string name="player_info_age">Idade</string>
+    <string name="player_info_birthday">Aniversário</string>
+    <string name="player_info_source">Origem</string>
+    <string name="player_info_favorite_team">Time do coração</string>
+    <string name="player_info_hierarchy">Hierarquia</string>
+
+    <!--Components-->
+    <string name="form_field_optional_label">Opcional</string>
+    <string name="form_field_select_item">Selecione o %1$s</string>
+    <string name="image_source_request_source">Selecione a origem</string>
+    <string name="image_source_request_camera">Câmera</string>
+    <string name="image_source_request_gallery">Galeria</string>
+
+</resources>

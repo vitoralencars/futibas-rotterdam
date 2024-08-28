@@ -1,0 +1,58 @@
+# IDE-specific folders
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build system files
+.gradle/
+build/
+out/
+
+# Kotlin/Java build files
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.dex
+*.map
+*.keystore
+*.kotlin/metadata
+
+# Logs and crash reports
+*.log
+*.stacktrace
+*.cph
+*.log.json
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Android-specific files
+/local.properties
+/.cxx/
+*.so
+*.db
+*.hprof
+*.bak
+*.swp
+
+# CocoaPods specific files
+Pods/
+Podfile.lock
+xcuserdata/
+DerivedData/
+*.xcuserdata
+*.xcuserdatad
+*.xcworkspace
+
+# Firebase configuration files
+google-services.json
+GoogleService-Info.plist
