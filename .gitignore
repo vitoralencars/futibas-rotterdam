@@ -1,0 +1,90 @@
+# Build folders
+/build/
+/out/
+**/build/
+**/out/
+
+# Gradle
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+!gradle/wrapper/gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+.DS_Store
+/.caches/
+/*.keystore
+/.idea/
+**/gradle.xml
+**/workspace.xml
+**/tasks.xml
+**/assetWizardSettings.xml
+**/libraries/
+/buildSrc/build/
+/buildSrc/.gradle/
+/.gradle/
+/.idea/modules.xml
+.idea/kotlinc.xml
+
+# Kotlin/Native
+*.klib
+*.konan
+*.kexe
+*.kotlin_metadata
+.kotlin/
+build/bin/
+
+# Firebase
+# Excluir chaves e arquivos de configuração sensíveis
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Android specific
+.cxx/
+.externalNativeBuild/
+**/intermediates/
+**/gradle/
+**/generated/
+captures/
+
+# iOS specific
+iosApp/Pods
+*.xcworkspace
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+/*.pbxproj
+*.xcuserstate
+
+# Ignore Firebase Crashlytics generated files
+**/crashlytics-build.properties
+**/fabric.properties
+
+# IntelliJ/Android Studio local workspace
+.idea/workspace.xml
+.idea/libraries/
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/modules.xml
+.idea/caches/
+.idea/misc.xml
+.idea/modules/
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/kotlin_multiplatform_library.xml
+
+# Firebase build artifacts for multiplatform
+**/firebase-debug.log
+**/firebase-debug.log.*
+**/firebase-debug.*
+
+# Temporary files
+*.swp
+*~
+*.tmp
+*.temp
