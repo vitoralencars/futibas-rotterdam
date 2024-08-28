@@ -1,0 +1,87 @@
+{
+  "players": [
+    {
+      "name": "Ronaldo",
+      "age": 45,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://sortitoutsi.b-cdn.net/uploads/face/2000164943.png"
+    },
+    {
+      "name": "Romário",
+      "age": 57,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/1ijLCFC7Kq9uTMCGC6StLvyqo8t.jpg"
+    },
+    {
+      "name": "Neymar",
+      "age": 32,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://b.fssta.com/uploads/application/soccer/headshots/713.vresize.350.350.medium.34.png"
+    },
+    {
+      "name": "Zidane",
+      "age": 50,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/3111-1478769687.jpg"
+    },
+    {
+      "name": "Messi",
+      "age": 35,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://b.fssta.com/uploads/application/soccer/headshots/711.vresize.350.350.medium.24.png"
+    },
+    {
+      "name": "Cristiano",
+      "age": 39,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://b.fssta.com/uploads/application/soccer/headshots/885.vresize.350.350.medium.19.png"
+    },
+    {
+      "name": "Ronaldinho",
+      "age": 45,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/13.00/3301294.png?width=200&height=200"
+    },
+    {
+      "name": "Cafú",
+      "age": 57,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://static.wikia.nocookie.net/the-football-database/images/2/26/A.C._Milan_Cafu_001.png/revision/latest/scale-to-width-down/128?cb=20150304161214"
+    },
+    {
+      "name": "Cássio",
+      "age": 32,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://cdn.soccerwiki.org/images/player/18237.png"
+    },{
+      "name": "Totti",
+      "age": 45,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/12.14/12230.png?width=200&height=200"
+    },
+    {
+      "name": "Kaká",
+      "age": 57,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2024.00/310625.png?width=200&height=200"
+    },
+    {
+      "name": "Robben",
+      "age": 32,
+      "birthday": "",
+      "level": 1,
+      "photoUrl": "https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/12.15/850881.png?width=200&height=200"
+    }
+  ]
+}

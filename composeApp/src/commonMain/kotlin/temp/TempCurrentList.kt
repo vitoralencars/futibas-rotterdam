@@ -1,0 +1,37 @@
+package temp
+
+object TempCurrentList {
+    val mainList = "{\"type\":\"1\", " +
+            "\"players\":[{\"name\":\"Ronaldo\",\"age\":47,\"birthday\":\"18/09\",\"level\":1,\"photoUrl\":\"https://sortitoutsi.b-cdn.net/uploads/face/2000164943.png\",\"city\":\"Rio de Janeiro - RJ\",\"countryFlag\":\"🇧🇷\",\"nickname\":\"Fenômeno\"},\n" +
+            "{\"name\":\"Romário\",\"age\":58,\"birthday\":\"29/01\",\"level\":2,\"photoUrl\":\"https://media.themoviedb.org/t/p/w600_and_h900_bestv2/1ijLCFC7Kq9uTMCGC6StLvyqo8t.jpg\",\"city\":\"Rio de Janeiro - RJ\",\"countryFlag\":\"🇧🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Neymar\",\"age\":32,\"birthday\":\"05/02\",\"level\":2,\"photoUrl\":\"https://b.fssta.com/uploads/application/soccer/headshots/713.vresize.350.350.medium.34.png\",\"city\":\"Mogi das Cruzes - SP\",\"countryFlag\":\"🇧🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Cristiano\",\"age\":39,\"birthday\":\"05/02\",\"level\":3,\"photoUrl\":\"https://b.fssta.com/uploads/application/soccer/headshots/885.vresize.350.350.medium.19.png\",\"city\":\"Funchal\",\"countryFlag\":\"🇵🇹\",\"nickname\":null},\n" +
+            "{\"name\":\"Ronaldo\",\"age\":43,\"birthday\":\"21/03\",\"level\":3,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/13.00/3301294.png?width=200&height=200\",\"city\":\"Porto Alegre - RS\",\"countryFlag\":\"🇧🇷\",\"nickname\":\"Ronaldinho\"},\n" +
+            "{\"name\":\"Robben\",\"age\":32,\"birthday\":\"23/01\",\"level\":3,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/12.15/850881.png?width=200&height=200\",\"city\":\"Bedum\",\"countryFlag\":\"🇳🇱\",\"nickname\":null}, \n" +
+            "{\"name\":\"Seedorf\",\"age\":47,\"birthday\":\"01/04\",\"level\":3,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/10.09/11946.png?width=200&height=200\",\"city\":\"Paramaribo\",\"countryFlag\":\"🇸🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Pirlo\",\"age\":44,\"birthday\":\"19/05\",\"level\":3,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/13.05/703963.png?width=200&height=200\",\"city\":\"Flero\",\"countryFlag\":\"🇮🇹\",\"nickname\":null},\n" +
+            "{\"name\":\"Del Piero\",\"age\":48,\"birthday\":\"09/11\",\"level\":3,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/6.10/8074.png?width=200&height=200\",\"city\":\"Conegliano\",\"countryFlag\":\"🇮🇹\",\"nickname\":null},\n" +
+            "{\"name\":\"Rivaldo\",\"age\":51,\"birthday\":\"19/04\",\"level\":3,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/3.10/3268.png?width=200&height=200\",\"city\":\"Paulista - PE\",\"countryFlag\":\"🇧🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Suárez\",\"age\":37,\"birthday\":\"24/01\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2023.03/78000335.png?width=200&height=200\",\"city\":\"Salto\",\"countryFlag\":\"🇺🇾\",\"nickname\":null},\n" +
+            "{\"name\":\"Kroos\",\"age\":33,\"birthday\":\"04/01\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2024.10/156772.png?width=200&height=200\",\"city\":\"Greifswald\",\"countryFlag\":\"🇩🇪\",\"nickname\":null},\n" +
+            "{\"name\":\"Modric\",\"age\":38,\"birthday\":\"09/09\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2024.10/653054.png?width=200&height=200\",\"city\":\"Zadar\",\"countryFlag\":\"🇭🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Thiago Silva\",\"age\":39,\"birthday\":\"22/09\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2024.00/8833628.png?width=200&height=200\",\"city\":\"Rio de Janeiro - RJ\",\"countryFlag\":\"🇧🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Tévez\",\"age\":40,\"birthday\":\"05/02\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2022.14/950298.png?width=200&height=200\",\"city\":\"Ciudadela\",\"countryFlag\":\"🇦🇷\",\"nickname\":\"Carlitos\"}]}"
+
+    val spotList = "{\"type\":\"2\", " +
+            "\"players\":[{\"name\":\"Drogba\",\"age\":46,\"birthday\":\"11/03\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/3.10/6201102.png?width=200&height=200\",\"city\":\"Abidjan\",\"countryFlag\":\"🇨🇮\",\"nickname\":null},\n" +
+            "{\"name\":\"Adriano\",\"age\":41,\"birthday\":\"17/02\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2024.01/2001403.png?width=200&height=200\",\"city\":\"Rio de Janeiro - RJ\",\"countryFlag\":\"🇧🇷\",\"nickname\":\"Imperador\"},\n" +
+            "{\"name\":\"Trezeguet\",\"age\":46,\"birthday\":\"15/10\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2024.01/9893.png?width=200&height=200\",\"city\":\"Rouen\",\"countryFlag\":\"🇫🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Mbappé\",\"age\":25,\"birthday\":\"20/12\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2022.15/85139014.png?width=200&height=200\",\"city\":\"Bondy\",\"countryFlag\":\"🇫🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Cavani\",\"age\":37,\"birthday\":\"14/02\",\"level\":4,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2023.03/78005742.png?width=200&height=200\",\"city\":\"Salto\",\"countryFlag\":\"🇺🇾\",\"nickname\":null}]}"
+
+    val outList = "{\"type\":\"3\", " +
+            "\"players\":" + "[{\"name\":\"Zidane\",\"age\":50,\"birthday\":\"23/06\",\"level\":2,\"photoUrl\":\"https://img.a.transfermarkt.technology/portrait/header/3111-1478769687.jpg\",\"city\":\"Marselha\",\"countryFlag\":\"🇫🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Messi\",\"age\":36,\"birthday\":\"24/06\",\"level\":2,\"photoUrl\":\"https://b.fssta.com/uploads/application/soccer/headshots/711.vresize.350.350.medium.24.png\",\"city\":\"Rosário\",\"countryFlag\":\"🇦🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Marcos\",\"age\":53,\"birthday\":\"07/06\",\"level\":3,\"photoUrl\":\"https://static.wikia.nocookie.net/the-football-database/images/2/26/A.C._Milan_Cafu_001.png/revision/latest/scale-to-width-down/128?cb=20150304161214\",\"city\":\"São Paulo - SP\",\"countryFlag\":\"🇧🇷\",\"nickname\":\"Cafú\"},\n" +
+            "{\"name\":\"Cássio\",\"age\":36,\"birthday\":\"06/06\",\"level\":3,\"photoUrl\":\"https://cdn.soccerwiki.org/images/player/18237.png\",\"city\":\"Veranópolis - RS\",\"countryFlag\":\"🇧🇷\",\"nickname\":null},\n" +
+            "{\"name\":\"Totti\",\"age\":47,\"birthday\":\"27/09\",\"level\":3,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/12.14/12230.png?width=200&height=200\",\"city\":\"Roma\",\"countryFlag\":\"🇮🇹\",\"nickname\":null},\n" +
+            "{\"name\":\"Ricardo\",\"age\":57,\"birthday\":\"22/04\",\"level\":3,\"photoUrl\":\"https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2024.00/310625.png?width=200&height=200\",\"city\":\"Brasília - DF\",\"countryFlag\":\"🇧🇷\",\"nickname\":\"Kaká\"}]}"
+
+    val currentLists = "{\"date\":\"17/07/2024\", \"currentLists\":[$mainList,$spotList,$outList]}"
+}

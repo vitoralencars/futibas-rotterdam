@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sporthal Snelleman",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sporthal Snelleman Rotterdam",
+    "address": "Woelwijkstraat 39, 3035 VL Rotterdam",
+    "imageName": "sporthal_snelleman"
+  },
+  {
+    "name": "Delfshaven",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Schiehaven Football Field Rotterdam",
+    "address": "Schiemond, 3024 EZ Rotterdam",
+    "imageName": "delfshaven"
+  }
+]

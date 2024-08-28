@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703400968272",
+    "project_id": "futibas-76c50",
+    "storage_bucket": "futibas-76c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703400968272:android:a92173c6415690c7249155",
+        "android_client_info": {
+          "package_name": "com.rotterdam.futibas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703400968272-l2c9n62vj0bmpnhoh6pvs394r74s6l0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rotterdam.futibas",
+            "certificate_hash": "8d3d46ed47a18f1ffad54a38db3492b3d9acf814"
+          }
+        },
+        {
+          "client_id": "703400968272-5a79smd29s9vaigmc5ebmsq51poa9rgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz__0DQvxTLtpMGKgxfD9Oqj7YmDOHYCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703400968272-5a79smd29s9vaigmc5ebmsq51poa9rgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
